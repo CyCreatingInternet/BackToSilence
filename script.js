@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const phoneName = inputField.value.trim();
 
         newElement.textContent = 'Phones-Name: ' + phoneName;
-        newElement.style.color = 'green'; 
+        newElement.style.color = 'white'; 
         container.appendChild(newElement);
     });
 });
+
