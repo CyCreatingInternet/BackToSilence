@@ -55,10 +55,13 @@ body {
     }
 
     .continue-button:hover {
-      background: #c2c0c0;
-      color: rgb(43, 43, 43);
+      background: linear-gradient(90deg, #ff00e1, #6f00f6, #00d9ff, #00ff88);
+      color: rgb(255, 255, 255);
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0,0,0,0.25);
     }
+      box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+    }
+
 
 
