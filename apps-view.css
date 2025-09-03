@@ -80,6 +80,8 @@ body {
         height: 60%;
         background: linear-gradient(90deg, #ffa6f5, #bd88ff, #c3f6ff, #a5ffd5);
         border-radius: 15px;
+        margin-bottom: 20%;
+      
     }
     .item5{
         width: 22%;
@@ -132,4 +134,5 @@ body {
     .item9:hover{
         transform: scale(1.2);
     }
+
 
