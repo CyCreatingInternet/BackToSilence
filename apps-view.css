@@ -1,0 +1,75 @@
+body {
+      margin: 0;
+      font-family: "Poppins", sans-serif;
+      background: linear-gradient(90deg, #ff5dec, #9e4fff, #6de9ff, #77ffc0);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .top-container {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .HeadLine {
+      font-size: 2.5rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+    .Headline2{
+      font-size: 1.5rem;
+      font-weight: 500;
+      letter-spacing: 1.5px;
+      text-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+    .App-List{
+        width: 84%;
+        height: 60%;
+        background: linear-gradient(90deg, #ffa6f5, #bd88ff, #c3f6ff, #a5ffd5);
+        border-radius: 15px;
+    }
+    .item1{
+        width: 25%;
+        height: 50%;
+        margin-left: 2%;
+    }
+    .item1:hover{
+        transform: scale(1.2);
+    }
+    .item2{
+        width: 22%;
+        height: 50%;
+        margin-top: 1.5%;
+        margin-bottom:1.5%;
+        margin-left: 0.5%;
+    }
+    .item2:hover{
+        transform: scale(1.2);
+    }
+        
+    .item3{
+        width: 22%;
+        height: 50%;
+        margin-top: 1.5%;
+        margin-bottom:1.5%;
+        margin-left: 2%;
+    }
+    .item3:hover{
+        transform: scale(1.2);
+    }
+
+    .item4{
+        width: 22%;
+        height: 50%;
+        margin-top: 1.5%;
+        margin-bottom:1.5%;
+        margin-left: 1%;
+    }
+    .item4:hover{
+        transform: scale(1.2);
+    }
