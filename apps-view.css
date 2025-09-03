@@ -126,12 +126,13 @@ body {
         height: 50%;
         margin-top: 0%;
         margin-bottom: 5%;
-        margin-left: -2%;
+        margin-left: -3%;
         border-radius: 15px;
     }
     .item9:hover{
         transform: scale(1.2);
     }
+
 
 
 
