@@ -7,12 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     continueButton.addEventListener("click", function () {
         const phoneName = inputField.value.trim();
-
-        newElement.textContent = 'Phones-Name: ' + phoneName;
-        newElement.style.color = 'white'; 
-        container.appendChild(newElement);
+        window.open("apps-view.html", "_blank");
     });
 });
-
-
-
