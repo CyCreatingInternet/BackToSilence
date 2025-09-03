@@ -116,7 +116,7 @@ body {
         height: 50%;
         margin-top: 0%;
         margin-bottom: 0%;
-        margin-left: -1%;
+        margin-left: -2.5%;
     }
     .item8:hover{
         transform: scale(1.2);
@@ -132,4 +132,5 @@ body {
     .item9:hover{
         transform: scale(1.2);
     }
+
 
