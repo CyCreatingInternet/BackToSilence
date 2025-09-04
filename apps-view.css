@@ -143,6 +143,7 @@ body {
         width: 22%;
         height: 50%;
         margin-left: 0.5%;
+        border-radius: 15px;
     }
     .placeholder1:hover{
         transform: scale(1.2);
@@ -151,6 +152,7 @@ body {
         width: 22%;
         height: 50%;
         margin-left: 0.5%;
+        border-radius: 15px;
     }
     .placeholder2:hover{
         transform: scale(1.2);
@@ -159,6 +161,7 @@ body {
         width: 22%;
         height: 50%;
         margin-left: 0.5%;
+        border-radius: 15px;
     }
     .placeholder3:hover{
         transform: scale(1.2);
@@ -167,6 +170,7 @@ body {
         width: 22%;
         height: 50%;
         margin-left: 0.5%;
+        border-radius: 15px;
     }
     .placeholder4:hover{
         transform: scale(1.2);
