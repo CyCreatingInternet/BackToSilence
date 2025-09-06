@@ -275,7 +275,8 @@ body {
     }
     .greeting{
         font-family:'Arial Narrow Bold', sans-serif;
-        font-size: 2rem;
+        font-size: 1rem;
+        font-weight: 700;
         color:#000000;
         margin-left: 3%;
         margin-right: 3%;
@@ -288,3 +289,4 @@ body {
         margin-right: 3%;
         text-align: justify;
     }
+
