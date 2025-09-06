@@ -80,13 +80,17 @@ body {
         height: 60%;
         background: linear-gradient(90deg, #ffa6f5, #bd88ff, #c3f6ff, #a5ffd5);
         border-radius: 15px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-items: center;
+        align-content: center ;
     }
     .item5{
         width: 22%;
         height: 50%;
-        margin-top: 1.5%;
-        margin-bottom:1.5%;
         margin-left: 0.5%;
+        margin-top: 1%;
     }
     .item5:hover{
         transform: scale(1.2);
@@ -94,9 +98,8 @@ body {
     .item6{
         width: 20%;
         height: 50%;
-        margin-top: 1.5%;
-        margin-bottom:2%;
-        margin-left: -3%;
+        margin-left: 0.5%;
+        margin-top: 2.4%;
     }
     .item6:hover{
         transform: scale(1.2);
@@ -104,9 +107,9 @@ body {
     .item7{
         width: 14%;
         height: 50%;
-        margin-top: 0%;
-        margin-bottom: 5%;
         margin-left: 0.5%;
+        margin-right: 0%;
+        margin-top: 5.4%;
     }
     .item7:hover{
         transform: scale(1.2);
@@ -114,9 +117,8 @@ body {
     .item8{
         width: 24%;
         height: 50%;
-        margin-top: 0%;
-        margin-bottom: 0%;
-        margin-left: -3%;
+        margin-left: 0%;
+        margin-top: 0.7%;
     }
     .item8:hover{
         transform: scale(1.2);
@@ -124,10 +126,10 @@ body {
     .item9{
         width: 14%;
         height: 50%;
-        margin-top: 0%;
-        margin-bottom: 5%;
-        margin-left: -3%;
+        margin-left: 0.5%;
+        margin-right: 3%;
         border-radius: 15px;
+        margin-top: 5.4%;
     }
     .item9:hover{
         transform: scale(1.2);
@@ -138,6 +140,11 @@ body {
         background: linear-gradient(90deg, #ffa6f5, #bd88ff, #c3f6ff, #a5ffd5);
         border-radius: 15px;
         margin-bottom: 3%;
+        display: flex;
+        flex-direction:row;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
     }
     .placeholder1{
         width: 22%;
@@ -289,4 +296,3 @@ body {
         margin-right: 3%;
         text-align: justify;
     }
-
